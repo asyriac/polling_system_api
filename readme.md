@@ -19,7 +19,7 @@ To get the Node server running locally:
 
 # API
 
-## API to rreate a question
+## API to create a question
 
 URL [POST]: /api/v1/questions/create
 
